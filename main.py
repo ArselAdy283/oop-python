@@ -18,3 +18,5 @@ class Orang:
     
 orang1 = Orang("Ega", 18)
 orang1.welcome()
+
+print ("hhhhaa")
